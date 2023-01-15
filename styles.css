@@ -1,0 +1,232 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  background-image: url("img/backblend.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+  }
+
+  .bg-dark {
+    background-color: #000000!important;
+    border-bottom: .25em solid #F8D210;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: #F8D210;
+    
+  }
+
+
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+  .navbar-dark .navbar-nav .active>.nav-link {
+    color: #2FF3E0
+}
+
+.nav-link, .dropdown-item{
+  font-family: 'Alfa Slab One', cursive;
+  margin-right: 3em;
+  
+  
+}
+
+  .navbar img {
+    max-height: 5em;
+}
+
+
+
+/*
+.carcont {
+  background-color: #061c24;
+}
+*/
+
+.carcont {
+  
+}
+.carousel-item {
+  max-height: 800px;
+}
+
+.carousel-item img{
+ 
+  max-height: 800px;
+  margin: auto;
+  
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 30%;
+}
+.carousel-caption {
+  margin: auto;
+  background-color: #00000040;
+  border: .1em solid #2FF3E0 ;
+  width: 50%;
+}
+
+.btn-outline-primary {
+  border-color: #2FF3E0;
+  color: #F8D210;
+  border-radius: 0%;
+}
+
+
+
+.content {
+  margin: 1%;
+  height: 100%;
+  background-color: #f8f9fa;;
+  border-top: .25em solid #f8d210;
+}
+
+.content .btn-outline-primary, .models .btn-outline-primary {
+  background-color: #2FF3E0;
+  color: #000;
+}
+
+.border-btm {
+  margin-top: -1em;
+  width: 100%;
+  padding-left: 1em;
+  padding-right: 1em;
+  
+}
+.border-bottom img {
+  max-width: 100%;
+}
+
+.content p {
+  padding: 1em;
+
+}
+
+h2 {
+  margin: .5em;
+  text-align: center;
+  border-top: .1em solid #2FF3E0;
+  border-bottom: .1em solid #2FF3E0;
+  
+  
+
+
+}
+
+H5, H2 {
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.project {
+  background-color: #f8f9fa;;
+  padding: 0px!important;
+
+}
+
+
+
+.project p {
+  margin: 3em;
+}
+
+
+
+H1 {
+  padding: .5em;
+  /*border: .1em solid #2FF3E0;*/
+  font-family: 'Alfa Slab One', cursive;
+  color: #f8f9fa;;
+  margin-top: .5em!important;
+  background-image: url("img/bannerh1.svg");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.models {
+  margin-top: 1em;
+}
+
+hr {
+  color: #ffffff;
+  
+}
+
+
+.projectimage {
+  position: relative;
+  border-top: .25em solid #f8d210;
+  
+}
+
+.text-overlay {
+  margin-left: 5%;
+  margin-right: 5%;
+  position: absolute;
+  top: 80%;
+  width: 90%;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: .5em;
+  border-bottom: .25em solid #2FF3E0;
+}
+
+.gallery img {
+  margin-top: 1em;
+  border-top: .25em solid #f8d210;
+}
+
+.photo {
+  background-color: #f8f9fa;;
+  border-top: .25em solid #f8d210;
+  margin: 0;
+}
+
+.photo p {
+  margin: 1em;
+  text-align: center;
+  
+  
+}
+
+.photo .col-md-6 {
+  padding: 0%;
+}
+
+.photogallery img {
+  margin-top: 1em;
+  border-top: .25em solid #f8d210;
+}
+
+.junes, .white {
+  background-color: #f8f9fa;;
+}
+
+.wggallery img {
+  margin-top: 1em;
+}
+
+h3 {
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+}
+
+.contact {
+  background-color: #f8f9fa;
+  padding: 1em;
+  max-width: 50%;
+  margin: auto;
+  margin-top: 1em;
+}
+
+.btn-social-icon {
+  font-size: 2em;
+}
+
+

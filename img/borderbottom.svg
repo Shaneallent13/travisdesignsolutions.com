@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="144.19791mm"
+   height="2.6458349mm"
+   viewBox="0 0 144.1979 2.645835"
+   version="1.1"
+   id="svg12593"
+   sodipodi:docname="borderbottom.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12595"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.5247521"
+     inkscape:cx="295.67259"
+     inkscape:cy="52.28236"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12597"
+       dotted="false"
+       originx="-21.166667"
+       originy="-97.895839" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid12661"
+       originx="-21.166667"
+       originy="-97.895839" />
+    <sodipodi:guide
+       position="40.55596,-16.354999"
+       orientation="0,-1"
+       id="guide17756"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs12590">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -145.85418 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="210.00001 : -145.85418 : 1"
+       inkscape:persp3d-origin="105 : -195.35418 : 1"
+       id="perspective12657" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-21.166669,-97.895835)">
+    <path
+       style="fill:#2ff3e0;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.166669,97.895835 21.166666,2.645835 v -2.645835 z"
+       id="path18507" />
+    <path
+       style="fill:#2ff3e0;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       d="m 165.36458,97.895835 -21.16666,2.645835 v -2.645835 z"
+       id="path18507-5" />
+  </g>
+</svg>
