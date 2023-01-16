@@ -38,8 +38,19 @@ body {
     max-height: 5em;
 }
 
+.navbar-dark .navbar-toggler-icon {
+  background-image: url('img/navicon.svg')!important;
+}
 
+.navbar-dark .navbar-toggler {
+ 
+  border-color: #f8d210;
+  
+}
 
+.navbar-toggler {
+  border-radius: 0;
+}
 /*
 .carcont {
   background-color: #061c24;
@@ -218,8 +229,8 @@ h3 {
 }
 
 .contact {
-  background-color: #f8f9fa;
-  padding: 1em;
+  color: #f8f9fa;
+  margin: 1em;
   max-width: 50%;
   margin: auto;
   margin-top: 1em;
@@ -233,3 +244,21 @@ footer {
   margin-top: 1em;
 
 }
+
+@media screen and (max-width: 600px) {
+  .contact {
+    max-width: 100%;
+    padding: 1em;
+  }
+
+  h1 {
+    background-image: none;
+    border: .1em #2FF3E0 solid;
+    font-size: 2em;
+  }
+
+  
+  }
+
+  
+
