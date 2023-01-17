@@ -96,7 +96,7 @@ body {
   border-top: .25em solid #f8d210;
 }
 
-.content .btn-outline-primary, .models .btn-outline-primary {
+.content .btn-outline-primary, .models .btn-outline-primary, .blue {
   background-color: #2FF3E0;
   color: #000;
 }
@@ -258,6 +258,16 @@ footer {
   }
 
   
+  }
+
+  h3 a {
+    color: #fff;
+   
+  }
+
+  a {
+    
+    text-decoration: underline;
   }
 
   
