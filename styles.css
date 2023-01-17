@@ -57,9 +57,7 @@ body {
 }
 */
 
-.carcont {
-  
-}
+
 .carousel-item {
   max-height: 800px;
 }
@@ -270,5 +268,14 @@ footer {
     text-decoration: underline;
   }
 
-  
+  @media screen and (max-width: 991px) {
+    h2 {
+      font-size: 1.5em!important;
+      
+    }
+    .border-btm {
+      margin-top: -.75em;
+    }
+  }
 
+  
